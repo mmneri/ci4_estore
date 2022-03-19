@@ -3,8 +3,8 @@
 ## Installation instructions
 
 ```
-git clone https://github.com/gieart87/ci4-cicommerce.git
-cd ci4-cicommerce/
+git clone https://github.com/narayangit/ci4_estore
+cd ci4_estore
 composer install
 cp env .env
 (Manualy create a database)
