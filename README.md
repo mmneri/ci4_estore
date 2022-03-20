@@ -1,4 +1,4 @@
-# CI4 - Ecommerce
+# Codeigniter4 - Estore
 
 ## Installation instructions
 
